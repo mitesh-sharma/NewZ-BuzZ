@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": null
+            },
+            "author": null,
+            "title": null,
+            "description": null,
+            "url": null,
+            "urlToImage": null,
+            "publishedAt": null,
+            "content": null
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "161385360554578",
+            "title": "Smith Rowe offered to rival, Chalobah latest, huge Salah deal, shock Man United move",
+            "description": "talkSPORT.com brings you all the latest football news, transfer gossip and reaction to the biggest stories. Tune into talkSPORT here and follow our live blog below for regular updates throughout th…",
+            "url": "https://talksport.com/football/1486182/football-news-live-transfers-gossip-premier-league-smith-rowe-chelsea-man-utd/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/08/DK-TALKSPORT-BLOG-COMP-29TH.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2023-08-29T07:07:20Z",
+            "content": "Tottenham need to offload stars this week and manager Ange Postecoglou has given an update on a potential sale.\r\nMidfielder Tanguy Ndombele had looked to be getting a fresh start in north London but … [+795 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Football news and transfer latest",
+            "description": "The transfer deadline is approaching and the rumour mill is in overdrive - who do you want your club to sign?",
+            "url": "http://www.bbc.co.uk/sport/live/football/66642569",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-08-29T06:22:19.7431157Z",
+            "content": "Hello and welcome to your BBC Sport Tuesday live page.\r\nWeve got plenty to go through today with a huge focus on transfers. Romelu Lukaku is set for Roma, Matheus Nunes is looking to force a move to … [+177 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "Bryan Fischer, Michael Cohen, RJ Young",
+            "title": "College football 2023 guide: Preview of every Power 5 conference",
+            "description": "Our writers break down every Power 5 college football conference, outlining players to watch, predicted order of finish and more!",
+            "url": "http://www.foxsports.com/stories/college-football/college-football-2023-guide-previewing-every-power-5-conference",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/8.21.23_CFB-Conference-previews_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-28T18:56:12Z",
+            "content": "In 2024, college football will undergo dramatic change, thanks to realignment that will impact the Big Ten, Big 12, Pac-12, SEC and beyond.\r\nThat makes 2023 a season of transition as schools prepare … [+5735 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Pau Mosquera, Claudia Rebaza, Tara Subramaniam",
+            "title": "Spain’s regional soccer chiefs call on Luis Rubiales to resign over unwanted kiss with Jenni Hermoso",
+            "description": "The presidents of Spain’s regional soccer federations are calling for the resignation of Luis Rubiales, the suspended president of the National Football Association, in a statement published Monday following an emergency meeting.",
+            "url": "https://www.cnn.com/2023/08/28/football/luis-rubiales-spanish-prosecutors-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230828145846-01-rally-for-jenni-hermoso-082823.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-28T14:01:27Z",
+            "content": "The presidents of Spains regional soccer federations are calling for the resignation of Luis Rubiales, the suspended president of the National Football Association, in a statement published Monday fo… [+4830 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Prosecutors open sex abuse investigation into Rubiales",
+            "description": "Spanish prosecutors open a preliminary sex abuse investigation into football federation president Luis Rubiales.",
+            "url": "http://www.bbc.co.uk/sport/football/66640485",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11787/production/_124395517_bbcbreakingnewsgraphic.jpg",
+            "publishedAt": "2023-08-28T13:37:21.9708519Z",
+            "content": "Spain prosecutors say they have opened a preliminary sex abuse investigation into Spanish football federation president Luis Rubiales.\r\nThere has been widespread criticism of Rubiales, 46, after he k… [+209 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "B/R's College Football Weekly Awards: Week 0",
+            "description": "The offseason is but a memory. Week 0, that blessed Saturday, rang in the return of college football in 2023. Sure, a seven-game schedule didn't lead to a…",
+            "url": "https://bleacherreport.com/articles/10087407-brs-college-football-weekly-awards-week-0",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1693145274/atp5fyydm2rse6alivnj.jpg",
+            "publishedAt": "2023-08-28T11:30:10Z",
+            "content": "Don BrownSam Wasson/Getty Images\r\nOne simple interaction on Saturday night captures this topic well. While I mentioned Week 0's results to a friend, his face turned quizzical and asked, \"Wait, UMass … [+788 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Alex Ballentine",
+            "title": "Biggest Overreactions from Fantasy Football Managers After 2023 NFL Preseason",
+            "description": "The 2023 NFL Preseason is now behind us which means the next time you watch NFL action there will be real stakes for players and fantasy managers alike. With…",
+            "url": "https://bleacherreport.com/articles/10087359-biggest-overreactions-from-fantasy-football-managers-after-2023-nfl-preseason",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1693144271/r3n9jmlm1yj4miajmsd5.jpg",
+            "publishedAt": "2023-08-28T11:15:10Z",
+            "content": "Michael Owens/Getty Images\r\nCurrent ADP: 7.01\r\nTwo things are true: Jahan Dotson lit up the Baltimore Ravens in Week 2 of the preseason, and the Commanders are a difficult offense to project for fant… [+1441 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Brad Shepard",
+            "title": "B/R Experts' Bold Predictions for the 2023 College Football Season",
+            "description": "Are you ready for some football? All the storylines have been hashed and rehashed, and the time for talking is (almost) over. With Week Zero games behind us,…",
+            "url": "https://bleacherreport.com/articles/10087329-br-experts-bold-predictions-for-the-2023-college-football-season",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1693064381/u0rawxfbme2gzqe8zau2.jpg",
+            "publishedAt": "2023-08-28T11:14:03Z",
+            "content": "Justin Fine/Icon Sportswire via Getty Images\r\nPredicting success for a team coming off a 10-3 finish with a Heisman Trophy candidate at quarterback might not seem like a bold prediction, but with all… [+1671 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Adam Schefter",
+            "title": "Adam Schefter's fantasy football cheat sheet - Value picks and sleepers to target - ESPN",
+            "description": "No one is more plugged in to the latest buzz around the NFL than Adam Schefter. So we asked him to share his favorite values in fantasy drafts with you.",
+            "url": "https://www.espn.com/fantasy/football/insider/story/_/id/38250660/2023-fantasy-football-sleepers-cheat-sheet-adam-schefter",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0824%2FFantasy_Schefter_CheatSheet_16x9.jpg",
+            "publishedAt": "2023-08-27T11:44:00Z",
+            "content": "Each year, we try to quench your thirst for fantasy football sleepers and cheat sheets to get you ready for your drafts. For the past several years, we have given you direct access to Adam Schefter's… [+4872 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
