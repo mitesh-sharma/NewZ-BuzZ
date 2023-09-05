@@ -3,12 +3,12 @@ import newsImage from './newsImage.jpg'
 const NewsItem = (props) => {
   let myStyle = {
     color: props.mode === 'dark' ? 'white' : 'black',
-    backgroundColor : props.mode === 'dark' ? '#333333' : 'white'
+    backgroundColor : props.mode === 'dark' ? '#222222' : 'white'
   }
   let myStyle2 = {
     color: props.mode === 'dark' ? 'white' : 'black',
-    backgroundColor : props.mode === 'dark' ? '#444444' : 'white',
-    border: '1px solid #888888'
+    backgroundColor : props.mode === 'dark' ? '#333333' : 'white',
+    border: '1px solid #777777'
   }
   let { title, description, imageurl, newsurl, date, author } = props;
   return (
